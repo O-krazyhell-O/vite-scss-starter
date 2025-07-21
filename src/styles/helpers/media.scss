@@ -1,0 +1,15 @@
+@use './functions' as *;
+
+// $some-device: 1440.98;
+
+// @mixin some-device-above {
+//     @media (width > rem($some-device)) {
+//         @content;
+//     }
+// }
+
+// @mixin some-device {
+//     @media (width <= rem($some-device)) {
+//         @content;
+//     }
+// }
